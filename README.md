@@ -1,1 +1,1 @@
-Created a Chat Application using React,Node.js with MongoDB
+Created a Chat Application using ReactJS,NodeJS with MongoDB
