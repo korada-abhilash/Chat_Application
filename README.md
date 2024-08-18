@@ -1,1 +1,1 @@
-Created a chat application using MERN stack.
+Created a Chat Application using React,Node.js with MongoDB
